@@ -1,0 +1,17 @@
+html, body { 
+    overflow-y: hidden; 
+}
+
+-webkit-scrollbar { display: none; }
+
+.register-header {
+    background-color: #fbfbfb;
+}
+
+.name-input{
+    width: min-content;
+}
+
+input {
+    width: 410px;
+}

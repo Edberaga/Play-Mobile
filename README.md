@@ -1,2 +1,2 @@
 # Play-Mobile
-Simple Ecommerce website with PHP and MySQL with Bootstrap 5
+Simple Ecommerce website with PHP, JavaScript and MySQL with Bootstrap 5
